@@ -1,0 +1,38 @@
+body {
+
+    background-color: black;
+    color: white;
+
+}
+
+h1 {
+    display: block;
+    color: burlywood;
+    font-size: 4rem;
+}
+input{
+    
+    width: 20rem;
+    height: 3rem;
+    border-radius: 50px;
+    font-size: 2rem;
+    color: brown;
+    padding-left: 1.5rem;
+    margin-left: 4rem;
+}
+input::placeholder{
+    color: aq;
+    padding-left: 3rem;
+    font-size: 1.5rem;
+}
+button {
+    width: 6rem;
+    height: 3rem;
+    border-radius: 10rem;
+    margin-left: 2rem;
+}
+ul{
+    font-size: 2rem;
+    margin:4rem 0 0 4rem ;
+    line-height: 3rem;
+}
