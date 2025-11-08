@@ -1,6 +1,6 @@
-# About Project:
-    This is calculator built using HTML, CSS and Javascript 
-    which allows users to operate itself through cursor and keybord both.
+# About :
+    this is a web page based on API i.e., "http://universities.hipolabs.com/search?name="
+    which shows the universities of country name entered in search-box.
 
-# Author:
+# Author :
     Siddhant jha.
